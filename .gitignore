@@ -9,3 +9,4 @@ BuildConfig.java
 *.xcworkspacedata
 MAME4all/trunk/Android/MAME4droid/.settings
 *.orig
+*.so
