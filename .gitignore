@@ -1,0 +1,11 @@
+*.class
+MAME4all/trunk/Android/MAME4droid/bin
+MAME4all/trunk/obj_mame_android
+.DS_Store
+Reloaded/trunk/xcode/MAME4iOS/MAME4iOS.xcodeproj/xcuserdata
+MAME4all/trunk/iMAME4all.xcodeproj/xcuserdata
+*.xcuserstate
+BuildConfig.java
+*.xcworkspacedata
+MAME4all/trunk/Android/MAME4droid/.settings
+*.orig
